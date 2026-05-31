@@ -1,0 +1,14 @@
+package com.example.bingo.ui.features.onboarding
+
+import androidx.annotation.DrawableRes
+
+import androidx.compose.ui.unit.Dp
+import androidx.compose.ui.unit.dp
+
+data class OnboardingPageInfo(
+    val title: String,
+    val description: String,
+    @param:DrawableRes val imageRes: Int,
+    val imageScale: Float = 1.0f,
+    val imageOffsetY: Dp = 0.dp
+)

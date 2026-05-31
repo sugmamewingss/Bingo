@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Bingo" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Setting splash screen background to BrandPrimary (#68C2A7) -->
+        <item name="windowSplashScreenBackground">#68C2A7</item>
+        <!-- Center icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/img_dino_face</item>
+        <!-- The theme to apply after the splash screen finishes -->
+        <item name="postSplashScreenTheme">@style/Theme.Bingo</item>
+    </style>
+</resources>

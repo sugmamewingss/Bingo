@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wraps the PNG icon to ensure it scales correctly inside the adaptive icon mask -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/icon_app"
+    android:inset="16dp" />
