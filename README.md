@@ -400,5 +400,5 @@ app/src/main/java/com/example/bingo/
 ---
 
 <p align="center">
-  <i>Dibuat dengan 💚 oleh Tim BinGo - Kelompok 5 Intern Bingo</i>
+  <i>Dibuat dengan 💚 oleh Tim BinGo - Pengembang Aplikasi Mobile</i>
 </p>
