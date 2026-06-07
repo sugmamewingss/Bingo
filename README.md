@@ -371,10 +371,10 @@ app/src/main/java/com/example/bingo/
 ## 🚀 Cara Menjalankan
 
 ### Prasyarat
-- **Android Studio** Ladybug (2024.2.x) atau lebih baru
-- **JDK 11** atau lebih tinggi
+- **Android Studio** Ladybug (2024.2.x) atau lebih baru.
+- **JDK 11** atau lebih tinggi.
 - **Android SDK** dengan API Level 26+
-- Akun **Supabase** dengan project yang sudah disiapkan
+- Akun **Supabase** dengan project yang sudah disiapkan.
 
 ### Setup
 
