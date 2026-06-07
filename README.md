@@ -179,7 +179,7 @@ Layar pembuka dengan animasi logo dan pengecekan otomatis:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Bahasa & Framework
 
@@ -225,7 +225,7 @@ Layar pembuka dengan animasi logo dan pengecekan otomatis:
 
 ---
 
-## 🏛 Arsitektur Aplikasi
+## Arsitektur Aplikasi
 
 Aplikasi ini menggunakan arsitektur **MVVM (Model-View-ViewModel)** dengan **Repository Pattern** dan **Dependency Injection** via Hilt.
 
@@ -333,7 +333,7 @@ Aplikasi ini menggunakan arsitektur **MVVM (Model-View-ViewModel)** dengan **Rep
 
 ---
 
-## 📱 Cakupan Platform
+## Cakupan Platform
 
 | Platform    | Status            | Keterangan                                               |
 | ----------- | ----------------- | -------------------------------------------------------- |
@@ -345,7 +345,7 @@ Aplikasi ini menggunakan arsitektur **MVVM (Model-View-ViewModel)** dengan **Rep
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```
 app/src/main/java/com/example/bingo/
@@ -400,7 +400,7 @@ app/src/main/java/com/example/bingo/
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prasyarat
 
